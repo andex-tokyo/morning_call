@@ -1,0 +1,168 @@
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 59, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 59, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 60, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 60, in <module>
+    scheduler.add_job(make_call, 'cron', hour=hour, minute=minute, args=[time, number, name])
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 62, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 63, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 63, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 63, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/yuki/Desktop/morning/call.py", line 63, in <module>
+    scheduler.start()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 21, in start
+    self._main_loop()
+  File "/Users/yuki/Library/Caches/pypoetry/virtualenvs/morning-VndUFOvr-py3.9/lib/python3.9/site-packages/apscheduler/schedulers/blocking.py", line 30, in _main_loop
+    self._event.wait(wait_seconds)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/yuki/miniforge3/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt

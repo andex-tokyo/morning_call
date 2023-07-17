@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "morning"
+version = "0.1.0"
+description = ""
+authors = ["Yuki Tsuchida <d@gahaku.tech>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+twilio = "^8.5.0"
+APScheduler = "^3.10.1"
+slack-sdk = "^3.21.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
